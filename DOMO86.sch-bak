@@ -2670,4 +2670,6 @@ Connection ~ 1050 3800
 Wire Wire Line
 	1050 4550 850  4550
 Connection ~ 1050 4550
+Text GLabel 2700 5900 2    50   Input ~ 0
+ROW4
 $EndSCHEMATC
