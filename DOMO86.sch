@@ -2786,8 +2786,6 @@ F 3 "" H 3050 5400 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 NoConn ~ 3050 7500
-Text Notes 4100 5300 0    50   ~ 0
-Next time: \n- Get rid of speaker and led pins. \n- Make cols for 13+\n- Get the Rotary switch inside the Matrix
 Wire Wire Line
 	1350 800  1350 1050
 Connection ~ 1350 1050

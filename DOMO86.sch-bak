@@ -2629,10 +2629,10 @@ Text GLabel 3050 6200 2    50   Input ~ 0
 ROW1
 Text GLabel 3050 6100 2    50   Input ~ 0
 ROW0
-Text GLabel 1000 5700 0    50   Input ~ 0
+Text GLabel 3050 7300 2    50   Input ~ 0
 COL18
 Text GLabel 3050 5900 2    50   Input ~ 0
-COL16
+COL14
 Text GLabel 3050 5800 2    50   Input ~ 0
 COL13
 Text GLabel 3050 5700 2    50   Input ~ 0
@@ -2859,8 +2859,8 @@ F 3 "" H 1900 6100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 3050 7400 2    50   Input ~ 0
-COL18
-Text GLabel 3050 7300 2    50   Input ~ 0
+COL15
+Text GLabel 1000 5700 0    50   Input ~ 0
 COL19
 Wire Wire Line
 	3300 3950 2700 3950
